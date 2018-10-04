@@ -1,0 +1,8 @@
+FIG 1, 2, EV1, EV2, EV3
+Number of foci per cell
+Directory structure: See folder ''Directory structure''
+Open script ''Measure_within_vesicles_directory_example'' in FIJI. Find suitable threshold for all channels and keep it constant for all conditions.
+Process_script
+Instal Anaconda Python. Make sure that Numpy, Scipy, Matplotlib and Seaborn are installed.
+Follow directory structure. Press Play in order to finish the processing task. 
+Number of nuclei will be automatically counted which will be used for normalizing data sets to the cell number.

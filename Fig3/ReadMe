@@ -1,0 +1,5 @@
+FIG 3
+Number of foci
+Open movie in FIJI. Open ROI manager window.
+Open script ''Analyse_Spots_example'' in FIJI. Find manual threshold and press OK.
+Number of nuclei was counted manually.

@@ -1,0 +1,8 @@
+FIG 4B
+Number of foci per cell
+Open script ''Count_Sports_intensity'' in FIJI. Open ROI manager window.
+Make sure that directory structure follows the ''Example Directory''.
+Process_files_single_tidy_frame
+Instal Anaconda Python. Make sure that Numpy, Scipy, Matplotlib and Seaborn are installed.
+Follow directory structure. Press Play in order to finish the processing task. 
+Number of nuclei will be automatically counted which will be used for normalizing data sets to the cell number.

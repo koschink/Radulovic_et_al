@@ -1,0 +1,8 @@
+FIG 4C (Same as in Fig 4B.)
+Number of foci per cell
+
+Open script ''Count_Sports_intensity_C'' in FIJI. Open ROI manager window.
+
+Processing_Area_Normalized
+Instal Anaconda Python. Make sure that Numpy, Scipy, Matplotlib and Seaborn are installed.
+Follow directory structure. Press Play in order to finish the processing task. 
